@@ -1,4 +1,6 @@
 # titanic
 titanic kaggle challenge
 
-not sure what to put in here?
+https://stats.idre.ucla.edu/r/dae/logit-regression/
+
+try using a regression to predict survival: 
